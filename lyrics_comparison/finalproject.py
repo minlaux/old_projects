@@ -7,7 +7,7 @@ Created on Wed Apr 21 18:44:42 2021
 """
 
 # Name: Polina Petrova
-# E-mail: petrovap@bu.edu
+# E-mail: 
 # finalproject.py (Final Project)
 
 
